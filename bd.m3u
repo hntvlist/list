@@ -1,0 +1,62 @@
+#EXTM3U
+#EXTINF:-1 group-title="湖南",湖南卫视
+http://119.39.49.78:6610/001/2/ch00000090990000001079/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",湖南经视
+http://119.39.49.78:6610/001/2/ch00000090990000001080/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",湖南国际频道
+http://119.39.49.78:6610/001/2/ch00000090990000001044/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",湖南都市
+http://119.39.49.78:6610/001/2/ch00000090990000001049/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",湖南电视剧
+http://119.39.49.78:6610/001/2/ch00000090990000001050/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",湖南公共
+http://119.39.49.78:6610/001/2/ch00000090990000001051/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",湖南经视
+http://119.39.49.78:6610/001/2/ch00000090990000001052/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",湖南卫视
+http://119.39.49.78:6610/001/2/ch00000090990000001053/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",金鹰纪实
+http://119.39.49.78:6610/001/2/ch00000090990000001057/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",金鹰卡通
+http://119.39.49.78:6610/001/2/ch00000090990000001058/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",卡酷少儿
+http://119.39.49.78:6610/001/2/ch00000090990000001059/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",快乐垂钓高高清
+http://119.39.49.78:6610/001/2/ch00000090990000001060/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",湖南时尚频道
+http://119.39.49.78:6610/001/2/ch00000090990000001085/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",湖南电影
+http://119.39.49.78:6610/001/2/ch00000090990000001070/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",芒果乐淘
+http://119.39.49.78:6610/001/2/ch00000090990000001203/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",芒果乐活
+http://119.39.49.78:6610/001/2/ch00000090990000001226/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",芒果TV高清
+http://119.39.49.78:6610/001/2/ch00000090990000001232/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",公共频道
+http://119.39.49.78:6610/001/2/ch00000090990000001240/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",先锋乒羽
+http://119.39.49.78:6610/001/2/ch00000090990000001127/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",财富天下
+http://119.39.49.78:6610/001/2/ch00000090990000001103/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",女性频道
+http://119.39.49.78:6610/001/2/ch00000090990000001106/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="湖南",政法频道
+http://119.39.49.78:6610/001/2/ch00000090990000001107/index.m3u8?virtualDomain=0001.live_hls.zte.com
+#EXTINF:-1 group-title="IPV6",凤凰中文
+http://[2001:250:4814:1::200]/hls/fhzw.m3u8
+#EXTINF:-1 group-title="IPV6",凤凰资讯
+http://[2001:250:4814:1::200]/hls/fhzx.m3u8
+#EXTINF:-1 group-title="IPV6",凤凰电影
+http://[2001:250:4814:1::200]/hls/fhdy.m3u8
+#EXTINF:-1 group-title="IPV6",探索频道
+http://[2001:250:4814:1::200]/hls/discovery.m3u8,
+#EXTINF:-1 group-title="IPV6",国家地理
+http://[2001:250:4814:1::200]/hls/natlgeo.m3u8
+#EXTINF:-1 group-title="IPV6",星空卫视
+http://[2001:250:4814:1::200]/hls/startv.m3u8
+#EXTINF:-1 group-title="IPV6",channel[V]
+http://[2001:250:4814:1::200]/hls/channelv.m3u8
+#EXTINF:-1 group-title="IPV6",卫视体育
+http://[2001:250:4814:1::200]/hls/starsports.m3u8
+
