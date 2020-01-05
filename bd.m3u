@@ -50,7 +50,7 @@ http://[2001:250:4814:1::200]/hls/fhzx.m3u8
 #EXTINF:-1 group-title="IPV6",凤凰电影
 http://[2001:250:4814:1::200]/hls/fhdy.m3u8
 #EXTINF:-1 group-title="IPV6",探索频道
-http://[2001:250:4814:1::200]/hls/discovery.m3u8,
+http://[2001:250:4814:1::200]/hls/discovery.m3u8
 #EXTINF:-1 group-title="IPV6",国家地理
 http://[2001:250:4814:1::200]/hls/natlgeo.m3u8
 #EXTINF:-1 group-title="IPV6",星空卫视
